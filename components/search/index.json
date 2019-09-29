@@ -1,0 +1,9 @@
+{
+  "component": true,
+  "usingComponents": {
+    "H-tag" : "/components/tag/index",
+    "H-book" : "/components/book/index",
+    "H-loading" : "/components/loading/index"
+
+  }
+}

@@ -1,0 +1,7 @@
+{
+  "component": true,
+  "usingComponents": {
+   "H-book": "/components/book/index",
+   "H-search": "/components/search/index"
+  }
+}

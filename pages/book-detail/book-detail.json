@@ -1,0 +1,7 @@
+{
+  "usingComponents": {
+    "H-tag":"/components/tag/index",
+    "H-like":"/components/like/index",
+    "H-mask":"/components/mask/index"
+  }
+}

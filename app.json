@@ -1,0 +1,44 @@
+{
+  "pages": [
+    "pages/classic/classic",
+    "pages/my/my",
+    "pages/book/book",
+    "pages/book-detail/book-detail",
+    "pages/about/about",
+    "pages/course/course"
+    
+  ],
+  "window": {
+    "navigationBarBackgroundColor": "#ffffff",
+    "navigationBarTitleText": "HF 君",
+    "navigationBarTextStyle": "black",
+    "backgroundColor": "#fffff",
+    "navigationStyle": "default",
+    "enablePullDownRefresh": false
+  },
+  "tabBar": {
+    "selectedColor": "#000000",
+    "backgroundColor": "#ffffff",
+    "color": "#c7c7c7",
+    "list": [
+      {
+        "selectedIconPAth": "/images/tab/classic@highlight.png",
+        "pagePath": "pages/classic/classic",
+        "text": "流行",
+        "iconPAth": "/images/tab/classic.png"
+      },
+      {
+        "pagePath": "pages/book/book",
+        "selectedIconPAth": "/images/tab/book@highlight.png",
+        "text": "书籍",
+        "iconPAth": "/images/tab/book.png"
+      },
+      {
+        "pagePath": "pages/my/my",
+        "selectedIconPAth": "/images/tab/my@highlight.png",
+        "text": "喜欢",
+        "iconPAth": "/images/tab/my.png"
+      }
+    ]
+  }
+}

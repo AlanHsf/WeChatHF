@@ -1,0 +1,12 @@
+{
+  "component": true,
+  "usingComponents": {
+    "H-like": "/components/like/index",
+    "H-movie": "/components/classic/movie/index",
+    "H-music": "/components/classic/music/index",
+    "H-essay": "/components/classic/essay/index",
+    "H-episode": "/components/episode/index",
+    "H-naiv": "/components/navi/index",
+    "H-button": "/components/image-button/index"
+  }
+}
